@@ -1,5 +1,6 @@
 # 1.-My-Learn-Space
-* <h1>Godot</h1>
+* Godot
+  * - [x] Install Godot
   * Hack and Slash
     * - [x] Learn Move 8 direction Player
     * - [x] Learn swing weapon
@@ -26,6 +27,9 @@
     * - [ ] Learn Cinematic
     * - [ ] Learn Player Stat
 * Unity
+  * - [x] Register to Student Package
+  * - [x] Install Unity Hub
 * UE4
+  * - [x] Install UE4
 * Django
   * - [x] Install
